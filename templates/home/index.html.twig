@@ -1,0 +1,26 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Accueil{% endblock %}
+
+{% block body %}
+    <h1 class="text-center mb-5">Bienvenue sur <span class="text-dark">l'application des annonces </span></h1>
+
+    <div class="row justify-content-center">
+        {% for annonce in annonces %}
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
+                <div class="card h-100 shadow-lg border-0 gap-4 rounded-5 p-2 card-hover">
+                    <div class="card-body d-flex flex-column">
+                        <h4 class="card-title text-success">{{ annonce.titre }}</h4>
+                        <p class="card-text">{{ annonce.description }}</p>
+                        <hr>
+                        <p class="text-muted">📅 {{ annonce.createdAt|date('d/m/Y à H:i:s') }}</p>
+                        <p class="text-muted">✏️ {{ annonce.updatedAt|date('d/m/Y à H:i:s') }}</p>
+                    </div>
+                </div>
+            </div>
+        {% else %}
+            <div class="alert alert-warning text-center w-100">Aucune annonce disponible.</div>
+        {% endfor %}
+    </div>
+
+{% endblock %}
