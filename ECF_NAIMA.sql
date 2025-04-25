@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le : ven. 25 avr. 2025 à 15:36
+-- Généré le : ven. 25 avr. 2025 à 16:17
 -- Version du serveur : 10.4.28-MariaDB
 -- Version de PHP : 8.2.4
 
@@ -40,26 +40,26 @@ CREATE TABLE `annonce` (
 --
 
 INSERT INTO `annonce` (`id`, `titre`, `description`, `created_at`, `updated_at`) VALUES
-(61, 'Ad tempore fugiat.', 'Et veniam ea culpa natus minus harum est. Voluptas debitis non architecto eligendi sed. Eaque voluptatem eveniet beatae quo necessitatibus qui beatae vel.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(62, 'Est aspernatur architecto.', 'Sit maxime vitae esse dignissimos autem et. Quis quas sed ullam suscipit omnis. Fuga esse inventore sit iste sed.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(63, 'Atque velit eum.', 'Eveniet laboriosam at sit dolores quo. Pariatur exercitationem itaque quam illum aliquam.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(64, 'Quo nobis eveniet magni.', 'Exercitationem voluptatem id quas a aspernatur. Adipisci eum error ut perspiciatis eum natus harum consequatur. Molestiae quae sed nisi omnis enim voluptatem. Ratione beatae aut voluptas et autem possimus.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(65, 'Sunt in corporis aut.', 'Dolores maxime non officia sed non corrupti occaecati. Fuga sapiente eveniet nobis minima soluta deleniti temporibus aut. Modi quam quasi ut magnam. Ex dolores quod tempora quo eius pariatur. Dignissimos voluptatem et tenetur.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(66, 'Consequatur corporis et inventore.', 'Necessitatibus ipsa neque ut molestias dolorum fugiat. Voluptatum odit praesentium illo. Aut voluptatem reiciendis voluptatum ut. Aut voluptas qui deserunt sapiente modi rerum.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(67, 'Libero molestiae maxime.', 'Et corporis accusamus vel veniam. Deserunt omnis voluptas eveniet et a molestiae sit.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(68, 'Perspiciatis aspernatur qui architecto.', 'Facere quibusdam qui odio pariatur expedita in quia at. Illo cupiditate dolores quasi vel dolores ducimus est. Corrupti quis rerum quos et quos.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(69, 'Ipsam qui nobis totam.', 'Consequatur quas consectetur fuga incidunt sapiente non sit. Provident voluptatem aliquid odio. A omnis adipisci atque odit veniam.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(70, 'Autem quam nostrum ut.', 'Enim aut unde porro sed. Commodi eum harum modi officiis. Ut assumenda velit enim labore rerum ut. Velit qui enim soluta itaque non eum.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(71, 'Commodi et omnis.', 'Ad eum qui aperiam vitae repellendus vel quos voluptatem. Fugiat architecto itaque qui id libero. Odio architecto neque id id nostrum consequuntur dolorem.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(72, 'Cum necessitatibus aspernatur.', 'Expedita quia dolorum consequuntur aperiam corporis. Iste dolor quo ut excepturi. Quibusdam modi necessitatibus quia voluptatibus.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(73, 'Dignissimos aliquam quia.', 'Provident vel quam accusantium saepe. Dolores dolorum veritatis consequatur est in vel architecto assumenda. Ut eos doloremque saepe fugit. In odit non accusantium veniam placeat et repellendus.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(74, 'Officia inventore id aut accusantium.', 'Corrupti unde voluptatem porro. Sed nobis voluptate nesciunt placeat. Est tempore vel fugiat temporibus. Dicta ut quia temporibus.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(75, 'Iste natus est cumque.', 'Sequi nihil officiis aspernatur molestiae dolores dolorem. Nam et placeat modi qui et sequi. Earum sint accusamus vero repudiandae eveniet. Quo quisquam quisquam officia voluptas.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(76, 'Nesciunt velit culpa quo.', 'Tempora libero et neque aut cupiditate. A laboriosam vel et corporis numquam. Voluptate tenetur tenetur iste qui quia nostrum. Sed velit sint incidunt voluptatum. Atque voluptatem voluptas at nulla dolorum eum rerum eum.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(77, 'Magni similique earum sed.', 'Qui aperiam quam ipsa est. Est illo molestiae enim provident ea. Placeat corrupti aut odio qui similique esse. Omnis voluptates mollitia voluptatem aut.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(78, 'Velit sint pariatur numquam.', 'Voluptatem esse aut eveniet voluptatem expedita odit. Et aut suscipit animi ad non ut labore earum. Mollitia quia ipsum minima quia sit.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(79, 'Officia sed voluptatum consectetur est.', 'Est dolores accusantium ratione laboriosam ex et beatae. Ut deserunt pariatur autem ex et. Corporis sunt rerum omnis quia repudiandae praesentium esse.', '2025-04-25 10:50:54', '2025-04-25 10:50:54'),
-(80, 'Dolore quisquam est accusantium.', 'Odio magnam non minima tenetur enim sed. Impedit itaque nostrum nulla consequatur molestiae. Ipsum necessitatibus fugit at totam omnis repellat.', '2025-04-25 10:50:54', '2025-04-25 10:50:54');
+(121, 'Quidem expedita consequatur omnis voluptates dolorum.', 'Totam voluptatum quidem vel. Unde quia voluptates quibusdam explicabo officia soluta veritatis. Est et quis tempore dolores. Dolore excepturi et officiis rerum sit deleniti voluptatem.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(122, 'Illum aut voluptas tempore.', 'Dolores accusantium culpa necessitatibus nihil beatae provident. Blanditiis impedit ullam consequuntur eum. Delectus cumque voluptas voluptates quo officia. Ex aut et eos saepe beatae. Consequuntur qui modi ratione odit accusamus. Consequuntur ullam est quibusdam ut. Repellat reprehenderit in minus.', '2025-04-25 14:01:06', '2025-04-25 14:01:05'),
+(123, 'Quis a vero ipsam quaerat.', 'Quos ullam consequatur facilis consequatur voluptate. Accusantium soluta quia et sed dolore doloribus eos. Itaque enim sed accusamus voluptatem impedit qui perferendis. Libero explicabo fuga amet voluptatem sed aliquam autem.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(124, 'Fugiat dolores harum autem architecto.', 'Suscipit delectus ipsum occaecati tenetur. Maxime fugiat commodi id quis consequatur minima quis. Omnis ex ea maxime ut. Vel impedit consectetur quo nesciunt repudiandae deserunt occaecati assumenda.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(125, 'Cum qui delectus ullam quibusdam debitis.', 'Sed blanditiis vel voluptatum molestias quam ducimus laborum. Quia rem quaerat et officia eum commodi. Nesciunt dignissimos et cumque velit vel nostrum est beatae. Earum itaque nobis qui sapiente eos blanditiis culpa quos. Voluptatibus qui quo qui at itaque id nulla.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(126, 'Facilis eos natus eius numquam omnis.', 'Ut cum consequuntur aut ullam ut reiciendis earum. Inventore iusto occaecati inventore provident pariatur. Dolores ea adipisci pariatur. Id facilis blanditiis repellendus qui.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(127, 'Id voluptatibus est dignissimos ipsam.', 'Temporibus corporis eos ipsam nihil adipisci explicabo est. Vitae enim consequatur omnis totam sint. Possimus aut consequuntur magnam voluptate hic est consequatur provident. Fugiat delectus sint explicabo maiores voluptatem nesciunt sed. Perspiciatis nobis nihil ut facilis. Voluptatibus cum voluptate velit dolorem. Dolores impedit eius sequi amet enim.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(128, 'Delectus dicta nobis quam et aut.', 'Quod itaque sunt accusantium dolor. Ut placeat temporibus perferendis nemo velit non. Animi fugiat consequatur quia magni. A vitae quo dolorem minima deleniti.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(129, 'Excepturi aliquam rerum quo.', 'Non delectus alias aut ipsa aut voluptatem. Rerum voluptate excepturi odio sit necessitatibus. Incidunt est non et corrupti voluptate ea. Est neque a occaecati voluptatem accusamus in laudantium. Repellendus optio tempore quo nihil esse molestiae iure. Culpa molestiae repellat autem.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(130, 'Libero cumque ipsa officiis quo.', 'Omnis temporibus earum ipsam adipisci eum dicta praesentium. Aspernatur enim recusandae omnis cupiditate. Blanditiis dolores et id exercitationem. Dolores et libero veniam quidem est quod. Quibusdam voluptatibus natus dolor aspernatur reprehenderit fugit aperiam. Tenetur nemo ab autem ut architecto eligendi ut quasi. Adipisci illum nulla ipsa quo corporis minima quam.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(131, 'Veniam repudiandae et.', 'Quia ut ut odit et aut aut. Sed rerum amet omnis quaerat ea. Aut ex aspernatur beatae officia ullam inventore. Sint eveniet soluta quos consectetur et incidunt. Deleniti ea eaque nostrum et consequatur dolores blanditiis.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(132, 'Qui omnis aut asperiores dolorem.', 'Doloribus architecto quo quis error. Minus ut est voluptatem. Ut accusantium eos sint natus repellendus et ex. Explicabo totam tempora totam sunt quibusdam delectus. Et qui qui consequuntur voluptatem.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(133, 'Deleniti qui id.', 'Quia eos quisquam omnis excepturi ea et. Modi assumenda tempora sint inventore ipsum voluptate accusamus. Enim dolores quia officia ut id nesciunt. Aut architecto ab inventore distinctio. Consequatur eveniet optio consequatur vero. Nihil quod quia libero possimus. Ullam voluptate ratione aut sed provident iure dolores.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(134, 'Est et sit consectetur.', 'Qui aperiam ut possimus non. Aspernatur ut id natus sequi necessitatibus voluptatem. Vero perspiciatis consequatur neque deleniti eveniet aliquam qui. Non vitae sunt eius quibusdam odit quasi cum. Consequatur voluptas in dolore quam error deserunt molestias.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(135, 'Enim vel quo illo ut.', 'Expedita quo cupiditate sed ea omnis aut nemo. Rerum alias sapiente ea beatae quidem eum libero. Unde ut ullam consectetur facilis placeat. Sit aperiam dolorem quae eveniet cupiditate. Unde omnis voluptatum incidunt doloribus a a magni occaecati. Aut aut minus eligendi a et.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(136, 'Rerum vero vero facere aut.', 'Et temporibus excepturi accusantium placeat voluptatem quia. Qui odio nisi voluptates incidunt facilis. Aliquam ducimus aliquid et iste eum et voluptatibus consequatur. Sit non ipsum dicta minus esse deleniti. Unde in ullam dolores maxime veniam ipsa.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(137, 'Neque aut est unde.', 'Quam eum accusantium occaecati et. Aut sunt itaque voluptatem dicta. Labore nam voluptatem doloremque a in. Et veritatis aut molestiae dolor. Iure dolores aut totam illum dicta. Magni est accusantium itaque quae voluptas occaecati. Corporis velit beatae ut optio et architecto exercitationem.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(138, 'Et eveniet amet voluptatum qui.', 'Magni unde laborum eum numquam aperiam. Perspiciatis eveniet nihil qui sit consequatur et. Autem eius quis quod veritatis. Sit velit in error quis. Placeat quia aut officia placeat autem rerum.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(139, 'Aut voluptatem eos.', 'Accusamus autem qui non consequatur. Laborum architecto et voluptates reiciendis quibusdam quam rerum cum. Quidem modi ratione fuga consequatur possimus modi rerum. Et non non molestiae natus corporis vel. Consequatur quis eum sunt voluptate accusantium corporis inventore. Consequuntur sit eveniet nobis totam dolorem.', '2025-04-25 14:01:05', '2025-04-25 14:01:05'),
+(140, 'Nemo ratione in.', 'Dolor iure aut odit fuga consequatur neque. Corrupti doloribus voluptatem itaque laborum. Assumenda temporibus ullam illo praesentium ad hic. Sit illo nulla necessitatibus aspernatur minima accusantium quibusdam.', '2025-04-25 14:01:05', '2025-04-25 14:01:05');
 
 -- --------------------------------------------------------
 
@@ -130,7 +130,7 @@ ALTER TABLE `messenger_messages`
 -- AUTO_INCREMENT pour la table `annonce`
 --
 ALTER TABLE `annonce`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=81;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=141;
 
 --
 -- AUTO_INCREMENT pour la table `messenger_messages`
